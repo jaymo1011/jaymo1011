@@ -1,5 +1,5 @@
 # Hi there, I'm Jaymo
-I've been coding as a hobby for years now, I love it and it my dream to find a job in the industry. <sub>(and also finish the infinite backlog of projects I have 😅)</sub>
+I've been coding as a hobby for years now. I love it and it my dream to find a job in the industry.<br><sub>and also finish the infinite backlog of projects I have 😅</sub>
 
 Currently, I create content for and contribute to the [FiveM](https://fivem.net/) project (although I haven't yet committed to the main repo 😳) as well help the people over at [@CitizenFX](https://github.com/citizenfx) with some moderation tasks.
 
