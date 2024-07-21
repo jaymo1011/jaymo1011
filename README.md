@@ -1,24 +1,8 @@
 # Hi there, I'm Jaymo
-I've been coding as a hobby for years now. I love it and it is my dream to find a job in the industry.<br><sub>and also finish the infinite backlog of projects I have 😅</sub>
+I've been programming as a hobby for over a decade, and I'm currently employed doing... *a little bit of everything*.
 
-Currently, I create content for and contribute to the [FiveM](https://fivem.net/) project and help the people over at [@CitizenFX](https://github.com/citizenfx) with some moderation tasks.
-
-Most of my coding experience has been in Lua as an extension language for various video games but I've also dabbled in:
-- ActionScript 2.0
-- AutoHotkey (eek)
-- C
-- C++
-- C#
-- Java
-- JavaScript (including all your *favourite* web frameworks such as React and Angular)
-- Perl
-- PHP
-- Visual Basic
-- VBScript (gotta love MsgBox)
-
-and, of course, the two **not** languages people still consider to be languages:
-- HTML
-- CSS (and it's higher level forms)
+Most of my programming experience has been in Lua as an extension language for various video games, but I've also dabbled in **many** other programming languages.
+If you can think of it, I've either already used it or could learn it in a few days.
 
 Hope you have a good day!
 
